@@ -107,3 +107,5 @@ module.exports = function Feedback() {
   );
 }
 ```
+
+[![Edit react-simple-feedback-demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/yovxjo5oz)
