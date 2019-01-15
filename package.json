@@ -1,6 +1,7 @@
 {
-  "name": "tag-feeback-select",
+  "name": "react-simple-feeback",
   "version": "1.0.0",
+  "author": "Eric Adamski <er.adamski@gmail.com>",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
