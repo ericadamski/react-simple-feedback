@@ -1,0 +1,247 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tag Select should match the snapshot 1`] = `
+<div>
+  <div
+    class="sc-iwsKbI gmMYAg"
+  >
+    <p
+      class="sc-gzVnrw hMxoia"
+    >
+      Thank you for your feedback 👍
+    </p>
+    <div
+      class="sc-bZQynM ijsBjn sc-EHOje ewpEue"
+      data-testid="close-button"
+      role="button"
+    />
+    <p
+      class="sc-dnqmqq flsexd"
+    >
+      Eric's goal is to...
+    </p>
+    <ul
+      class="sc-htoDjs bZzhDu sc-bwzfXH kJsiIi"
+    >
+      <li
+        class="sc-bdVaJa bDWFJH"
+      >
+        <div
+          class="sc-htpNat GPaEE"
+        >
+          <span
+            class="sc-bxivhb fWJver"
+            role="img"
+          >
+            💵
+          </span>
+          <p
+            class="sc-ifAKCX jHATIr"
+          >
+            Earn More
+          </p>
+        </div>
+      </li>
+      <li
+        class="sc-bdVaJa bDWFJH"
+      >
+        <div
+          class="sc-htpNat GPaEE"
+        >
+          <span
+            class="sc-bxivhb fWJver"
+            role="img"
+          >
+            💼
+          </span>
+          <p
+            class="sc-ifAKCX jHATIr"
+          >
+            Change Jobs
+          </p>
+        </div>
+      </li>
+      <li
+        class="sc-bdVaJa bDWFJH"
+      >
+        <div
+          class="sc-htpNat GPaEE"
+        >
+          <span
+            class="sc-bxivhb fWJver"
+            role="img"
+          >
+            🏠
+          </span>
+          <p
+            class="sc-ifAKCX jHATIr"
+          >
+            Work Remotely
+          </p>
+        </div>
+      </li>
+      <li
+        class="sc-bdVaJa bDWFJH"
+      >
+        <div
+          class="sc-htpNat GPaEE"
+        >
+          <span
+            class="sc-bxivhb fWJver"
+            role="img"
+          >
+            🔧
+          </span>
+          <p
+            class="sc-ifAKCX jHATIr"
+          >
+            Build an Idea
+          </p>
+        </div>
+      </li>
+      <li
+        class="sc-bdVaJa bDWFJH"
+      >
+        <div
+          class="sc-htpNat GPaEE"
+        >
+          <span
+            class="sc-bxivhb fWJver"
+            role="img"
+          >
+            🤔
+          </span>
+          <p
+            class="sc-ifAKCX jHATIr"
+          >
+            Something Else
+          </p>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`Tag Select should match the snapshot 2`] = `
+<div>
+  <div
+    class="sc-iwsKbI dtCEkz"
+  >
+    <p
+      class="sc-gzVnrw hMxoia"
+    >
+      Thank you for your feedback 👍
+    </p>
+    <div
+      class="sc-bZQynM ijsBjn sc-EHOje ewpEue"
+      data-testid="close-button"
+      role="button"
+    />
+    <p
+      class="sc-dnqmqq flsexd"
+    >
+      Eric's goal is to...
+    </p>
+    <ul
+      class="sc-htoDjs bZzhDu sc-bwzfXH kJsiIi"
+    >
+      <li
+        class="sc-bdVaJa bDWFJH"
+      >
+        <div
+          class="sc-htpNat GPaEE"
+        >
+          <span
+            class="sc-bxivhb fWJver"
+            role="img"
+          >
+            💵
+          </span>
+          <p
+            class="sc-ifAKCX jHATIr"
+          >
+            Earn More
+          </p>
+        </div>
+      </li>
+      <li
+        class="sc-bdVaJa bDWFJH"
+      >
+        <div
+          class="sc-htpNat GPaEE"
+        >
+          <span
+            class="sc-bxivhb fWJver"
+            role="img"
+          >
+            💼
+          </span>
+          <p
+            class="sc-ifAKCX jHATIr"
+          >
+            Change Jobs
+          </p>
+        </div>
+      </li>
+      <li
+        class="sc-bdVaJa bDWFJH"
+      >
+        <div
+          class="sc-htpNat GPaEE"
+        >
+          <span
+            class="sc-bxivhb fWJver"
+            role="img"
+          >
+            🏠
+          </span>
+          <p
+            class="sc-ifAKCX jHATIr"
+          >
+            Work Remotely
+          </p>
+        </div>
+      </li>
+      <li
+        class="sc-bdVaJa bDWFJH"
+      >
+        <div
+          class="sc-htpNat GPaEE"
+        >
+          <span
+            class="sc-bxivhb fWJver"
+            role="img"
+          >
+            🔧
+          </span>
+          <p
+            class="sc-ifAKCX jHATIr"
+          >
+            Build an Idea
+          </p>
+        </div>
+      </li>
+      <li
+        class="sc-bdVaJa bDWFJH"
+      >
+        <div
+          class="sc-htpNat GPaEE"
+        >
+          <span
+            class="sc-bxivhb fWJver"
+            role="img"
+          >
+            🤔
+          </span>
+          <p
+            class="sc-ifAKCX jHATIr"
+          >
+            Something Else
+          </p>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+`;
