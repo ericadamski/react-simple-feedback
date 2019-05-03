@@ -13,28 +13,28 @@ module.exports = {
               [
                 "@babel/env",
                 {
-                  modules: false
-                }
+                  modules: false,
+                },
               ],
-              "@babel/preset-react"
+              "@babel/preset-react",
             ],
-            plugins: ["@babel/plugin-proposal-class-properties"]
-          }
-        }
-      }
-    ]
+            plugins: ["@babel/plugin-proposal-class-properties"],
+          },
+        },
+      },
+    ],
   },
   entry: {
-    index: "./lib/index"
+    index: "./lib/index",
   },
   externals: {
     react: "react",
-    "styled-components": "styled-components"
+    "styled-components": "styled-components",
   },
   output: {
     path: __dirname,
     filename: "[name].js",
-    library: "react-single-select",
-    libraryTarget: "umd"
-  }
+    library: "react-simple-feedback",
+    libraryTarget: "umd",
+  },
 };
